@@ -10,5 +10,3 @@ citation: 'M Beliaev, P Delgosha, H Hassani, R Pedarsani. (2022). &quot;Efficien
 ---
 
 [Download paper here](https://arxiv.org/pdf/2201.09369.pdf)
-
-Recommended citation: M Beliaev, P Delgosha, H Hassani, R Pedarsani. (2022). "Efficient and Robust Classification Under Sparse Attacks." <i>IEEE International Symposium on Information Theory (ISIT-2022), Helsinki, Finland, June. 2022.</i> doi:arXiv:2201.09369.

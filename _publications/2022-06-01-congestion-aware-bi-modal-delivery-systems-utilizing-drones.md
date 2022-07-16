@@ -13,4 +13,3 @@ citation: 'M Beliaev, N Mehr, R Pedarsani. (2022). &quot;Congestion-aware Bi-mod
 
 [Download paper here](https://arxiv.org/pdf/2104.04664.pdf)
 
-Recommended citation: M Beliaev, N Mehr, R Pedarsani. (2022). "Congestion-aware Bi-modal Delivery Systems Utilizing Drones." <i>European Control Conference Proceedings 2022 (ECC-2022), London, U.K. July. 2022</i>. doi: arXiv:2104.04664.
