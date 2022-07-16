@@ -48,7 +48,7 @@ Skills
 * TensorFlow
 * MATLAB
 * C++
-* LATEX
+* <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span></p>
 
 Publications
 ======
