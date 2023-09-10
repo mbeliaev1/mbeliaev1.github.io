@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](https://markbeliaev.com/files/markbeliaev_cv_2022.pdf)
+[Download CV here](https://markbeliaev.com/files/markbeliaev_cv.pdf)
 
 {% include base_path %}
 
