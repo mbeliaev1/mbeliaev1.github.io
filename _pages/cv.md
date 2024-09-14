@@ -10,7 +10,7 @@ redirect_from:
 [Download CV here](https://markbeliaev.com/files/mark_beliaev_cv.pdf)
 
 {% include base_path %}
-
+<!-- 
 Education
 ======
 * University of California Santa Barbara
@@ -66,5 +66,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
