@@ -54,10 +54,6 @@
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.youtubeurl %}
-      <a href="{{ post.youtubeurl }}" rel="noopener noreferrer" target="_blank">Watch our video presentation here!</a>
-    {% endif %}
-
     <ul class="archive__item-list no-bullets row">
       {% for link in post.links %}
         {% if link.last %}
