@@ -5,4 +5,12 @@ venue: '12th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)
 paperurl: 'https://dl.acm.org/doi/10.1145/3450267.3450546'
 citation: 'M Beliaev, E Bıyık, DA Lazar, WZ Wang, D Sadigh, R Pedarsani.'
 youtubeurl: 'https://youtu.be/XeffxOXrIIM'
+links:
+  pdf:
+  arxiv:
+  bib:
+  code:
+  slides:
+  poster:
+  video:
 ---

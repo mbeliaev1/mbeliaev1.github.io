@@ -6,4 +6,12 @@ venue: 'European Control Conference Proceedings 2022 (ECC-2022), London, U.K. Ju
 paperurl: 'https://arxiv.org/pdf/2104.04664.pdf'
 citation: 'M Beliaev, N Mehr, R Pedarsani. (2022). &quot;Congestion-aware Bi-modal Delivery Systems Utilizing Drones.&quot; <i>European Control Conference Proceedings 2022 (ECC-2022), London, U.K. July. 2022</i>. doi: arXiv:2104.04664.'
 youtubeurl: 'https://youtu.be/6WgrFEOxql0?si=lbBXwmQ_wa6sQRRo'
+links:
+  pdf:
+  arxiv:
+  bib:
+  code:
+  slides:
+  poster:
+  video:
 ---

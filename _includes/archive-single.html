@@ -57,5 +57,15 @@
     {% if post.youtubeurl %}
       <a href="{{ post.youtubeurl }}" rel="noopener noreferrer" target="_blank">Watch our video presentation here!</a>
     {% endif %}
+
+    <ul class="archive__item-list no-bullets row">
+      {% for link in post.links %}
+        {% if link.last %}
+          <li>
+            <a href="{{ link.last }}" rel="noopener noreferrer" target="_blank">[{{link.first}}]</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
   </article>
 </div>
