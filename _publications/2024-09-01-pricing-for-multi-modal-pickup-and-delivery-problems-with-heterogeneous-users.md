@@ -1,10 +1,11 @@
 ---
 title: "Pricing for Multi-modal Pickup and Delivery Problems with Heterogeneous Users"
 collections: publications
-venue: "Preprint (Accepted) - Transportation Research: Part C, September 2024"
+venue: "Transportation Research Part C: Emerging Technologies, September 2024"
 citation: "Mark Beliaev, Negar Mehr, and Ramtin Pedarsani."
-paperurl: "https://arxiv.org/abs/2303.10253"
+paperurl: "https://doi.org/10.1016/j.trc.2024.104864"
 links:
     arXiv: "https://arxiv.org/abs/2303.10253"
+    doi: "https://doi.org/10.1016/j.trc.2024.104864"
     github: "https://github.com/mbeliaev1/mdrp"
 ---
