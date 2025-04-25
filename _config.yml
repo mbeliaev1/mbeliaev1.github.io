@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mark Beliaev"
 title_separator          : "-"
 name                     : &name "Mark Beliaev"
-description              : &description "Ph.D. Candidate at University of California, Santa Barbara"
+description              : &description "Research Scientist at TikTok"
 url                      : https://mbeliaev1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mbeliaev1.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mark Beliaev"
   avatar           : "mbeliaev1.jpeg"
-  bio              : "Ph.D. Candidate at University of California, Santa Barbara"
-  location         : "Santa Barbara, CA"
+  bio              : "Research Scientist at TikTok"
+  location         : "Santa Clara, CA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=UZMTQiAAAAAJ&hl=en&oi=ao"
-  email            : "mbeliaev@ucsb.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=R5eDnOwAAAAJ&hl=en&oi=ao"
+  email            : "markbeliaev@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://markbeliaev.substack.com/"
   bitbucket        :
